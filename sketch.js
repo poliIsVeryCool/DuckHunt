@@ -1,6 +1,6 @@
 // Project Title
 // Your Name Policron
-// Date
+// Date when ever i want
 
 // Declare global variables
 let isAlive = true;
